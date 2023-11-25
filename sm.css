@@ -1,0 +1,51 @@
+.*{
+  padding:0%;
+  margin:0%;
+  family-font-style: monospace;
+}
+body{
+  background-color:	#FCE4B4;
+}
+.💩{
+  background-color:#CC9A52;
+  padding-left:42%;
+  border-radius:10px;
+  font-size: 30px;
+  font-style: italic;
+}
+.r{
+  background-color:#CC9A52;
+  padding-left:30%;
+  border-radius:10px;
+}
+.1{
+  display:flex;
+}
+.a{
+  float:left;
+  background-color:#AD794B;
+  border-radius:10px;
+  text-align:center;
+}
+
+.b{
+  float:right;
+  background-color:#AD794B;
+  border-radius:10px;
+  text-align:center;
+}
+
+
+.i1
+{
+  height:280px;
+  width:350px;
+  border-radius:10px;
+}
+.i2
+{
+  height:280px;
+  width:350px;
+  border-radius:10px; 
+}
+

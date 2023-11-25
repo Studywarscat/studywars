@@ -1,0 +1,19 @@
+*{
+}
+body{
+  family-font-family: oblique;
+  background-color:#654B38;
+}
+.a{
+background-color:#d5b195;
+
+}
+.o{
+  background-color:#9E9A9A;
+  border-radius:20px;
+}
+button{
+  border-radius:10%;
+  color:black;
+}
+

@@ -1,0 +1,19 @@
+*{
+  font-style: monospace;
+}
+body{
+  background-color:#B1C7B9;
+}
+.a{
+  font-size:20px;
+}
+.i1{
+  height:320px;
+  width:400px;
+ border-radius:20%;
+}
+.z{
+  background-color:yellow;
+  border-radius:40px;
+}
+
